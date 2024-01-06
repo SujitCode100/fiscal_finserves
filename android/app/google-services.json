@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527704055057",
+    "project_id": "fiscal-finserve",
+    "storage_bucket": "fiscal-finserve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527704055057:android:7371f5add5dda1df00c0b0",
+        "android_client_info": {
+          "package_name": "com.weblock.fiscal_finserve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf-RoOY1fjS5netjnARkqwdxFWnCiNhFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
